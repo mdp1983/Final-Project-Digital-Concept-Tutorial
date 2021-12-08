@@ -1,1 +1,16 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<body>
 
+<h2>What Bitmapped Images Are:</h2>
+
+<p><ul>Bitmapped images are made up of individual pixels.</ul>
+<ul>A pixel is a small dot of color on a digital image, hundreds of thousands of pixels 
+    are put together to make a Bitmapped image.</ul></p>
+
+<img src="https://sites.google.com/site/mrstevensonstechclassroom/_/rsrc/1360964718603/home/strand-3-it-systems/3-6-multimedia-digital-media/bitmap-graphics-image-storage-compression---social-impacts/flower%20low%20ppi.jpg" alt="bitmap images">
+
+
+</body>
+</html>
