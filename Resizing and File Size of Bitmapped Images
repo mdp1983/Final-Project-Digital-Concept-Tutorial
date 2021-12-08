@@ -1,1 +1,26 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<body>
 
+<h2>Resizing and File Size of Bitmapped Images:</h2>
+
+<h4>Resizing Bitmapped Images:</h4>
+
+<p>Bitmapped images can be resized, but you will sacrifice
+    picture quality when doing so.  This is due to the images being
+    made out of pixels. 
+</p>
+
+<h4>File Size:</h4>
+
+<p>Bitmapped images take up more memory space in your program
+    design.  Due to being made with pixels and not lines of code like
+    Vector Images.
+</p>
+
+<img src="https://d3ccuprjuqkp1j.cloudfront.net/BlogImages/2017/10-17-vector-vs-bitmap/StickerYou_Blog_Vector-vs-Bitmap_600x400.jpg" alt="bitmap images vs vector images">
+
+
+</body>
+</html>
