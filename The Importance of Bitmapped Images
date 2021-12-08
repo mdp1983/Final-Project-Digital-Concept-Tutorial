@@ -1,1 +1,18 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<body>
 
+<h2>The Importance of Bitmapped Images:</h2>
+
+<p>Bitmapped images are used for showing visual appeal in:
+    <ul>Travel Guides</ul>
+<ul>Resturant Menus</ul>
+<ul>Websites Selling Merchandise</ul>
+</p>
+
+<img src="https://qph.fs.quoracdn.net/main-qimg-27fc1f6962affd6643c03c31e9439688.webp" alt="bitmap images">
+
+
+</body>
+</html>
